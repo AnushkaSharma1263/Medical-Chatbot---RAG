@@ -49,7 +49,7 @@ User-Friendly UI – Streamlit-powered web interface.
 
 🚀 Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Medical-Chatbot-RAG.git
+git clone https://github.com/AnushkaSharma1263/Medical-Chatbot-RAG.git
 cd Medical-Chatbot-RAG
 
 2️⃣ Install Dependencies
